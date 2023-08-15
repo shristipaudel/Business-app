@@ -1,0 +1,21 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+r
+Bapp/src/main/java/com/example/myapplication/BroadcastReceiver.java,1\d\1d60785751ce6915931d680be327105821462622
+m
+=app/src/main/java/com/example/myapplication/MainActivity.java,9\7\97d5d04e52812b9d0ac3b157695041e5f8fbc36a
+k
+;app/src/main/java/com/example/myapplication/MyReceiver.java,8\4\845680a1f168e468adfdf643fa49423811e0460e
+t
+Dapp/src/main/aidl/com/example/myapplication/AidlStatusInterface.aidl,7\1\71a51862a3e85b22c39c76ca7317a40acb76ab2f
+r
+Bapp/src/main/java/com/example/myapplication/AidlStatusService.java,6\0\60d04edda584670ef48997dac49f3104b66181a1
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+l
+<app/src/main/aidl/com/example/aidlexample/AidlInterface.aidl,f\f\ffc3a1fc25f8803057267987b93550819d1c6047
+r
+Bapp/src/main/aidl/com/example/aidlexample/AidlStatusInterface.aidl,0\e\0eda18c10c4a3e6fd4bb5c816f38f26dcc779b8f
+n
+>app/src/main/java/com/example/myapplication/FirstFragment.java,9\0\90570ffd6a2d18173339adc2f2c7657bd04159b4

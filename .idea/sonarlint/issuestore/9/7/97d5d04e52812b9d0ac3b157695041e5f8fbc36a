@@ -1,0 +1,14 @@
+
+}
+java:S1450"bRemove the "appBarConfiguration" field and declare it as a local variable in the relevant methods.(ú’¤Úúÿÿÿÿ
+l
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(¶ÃÊ
+V	java:S125""<This block of commented-out lines of code should be removed.(Èß©øùÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(ÀÎØ…ÿÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(—ÔÌ ùÿÿÿÿ
+>
+java:S1185A"(Remove this method to simply inherit it.(ÍÙ÷¢
+>
+java:S1068 "(Remove this unused "text" private field.(·Ú€Ö
+>
+java:S1068!"(Remove this unused "data" private field.(àÁá´
